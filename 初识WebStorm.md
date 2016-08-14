@@ -10,9 +10,9 @@ WebStorm拥有先进的支持 JavaScript的，HTML，CSS，以及他们的现代
 * VCS集成：Subversion的，Perforce的，Git的外装即用的支持，并与变更表和合并CVS。
 * 
 
-JetBrains的WebStorm是跨平台的。它适用于Windows，Mac OS X和Linux带来的一系列精确的开发工具，都绑在一起创造了方便的开发环境。
+JetBrains的WebStorm是跨平台的。它可以在Windows，Mac OS X和Linux上运行，带来的一系列精确的开发工具，都绑在一起创造了方便的开发环境。
 
-* 如果你是完全新的WebStorm，阅读 快速入门指南。
+* 如果你对WebStorm完全不熟悉，请阅读 快速入门指南。
 * 与WebStorm开始之前，先看看的 要领，因为它们是WebStorm的更高效使用可能有用。
 * 如果您想了解WebStorm用户界面，然后坐 导游。零件工具的Windows和WebStorm编辑告诉你，你需要知道让这些UI元素的抓地力的一切。
 * 如果你点击 帮助一个对话框按 ​​钮，你会看到参考页，让控件和每个对话的领域描述。
