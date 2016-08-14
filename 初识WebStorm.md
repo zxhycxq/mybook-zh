@@ -25,12 +25,12 @@ JetBrains的WebStorm是跨平台的。它可以在Windows，Mac OS X和Linux上�
 
 请参考
 外部链接：
-[下载WebStorm](https://www.jetbrains.com/webstorm/download/)
+* [下载WebStorm](https://www.jetbrains.com/webstorm/download/)
 
-[WebStorm微博](https://twitter.com/webstormide)
+* [WebStorm微博](https://twitter.com/webstormide)
 
-[WebStorm博客](http://blog.jetbrains.com/webstorm/)
+* [WebStorm博客](http://blog.jetbrains.com/webstorm/)
 
-[什么WebStorm 2016.1的新功能](https://www.jetbrains.com/webstorm/whatsnew/)
+* [什么WebStorm 2016.1的新功能](https://www.jetbrains.com/webstorm/whatsnew/)
 
-[WebStorm支持](http://https://intellij-support.jetbrains.com/home)
+* [WebStorm支持](http://https://intellij-support.jetbrains.com/home)
