@@ -1,4 +1,4 @@
-* [空白目录](default.md)
+* [译者言](default.md)
     * [如何使用](如何使用.md)
 * [初识WebStorm](初识WebStorm.md)
     * [系统要求及安装](系统要求及安装.md)
