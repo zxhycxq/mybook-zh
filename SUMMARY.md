@@ -171,6 +171,7 @@
     * [语言和框架-具体指南](语言和框架-具体指南.md)
         * [javascript](javascript.md)
             * [使用angularjs](使用angularjs.md)
+            * [emmet](emmet.md)
 * [参考](参考.md)
     * [要点](要点.md)
     * [键盘快捷键及鼠标](键盘快捷键及鼠标.md)
