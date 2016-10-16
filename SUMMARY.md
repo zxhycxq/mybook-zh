@@ -202,6 +202,7 @@
             * [json模式](增加json模式.md)
                 * [增加json模式对话框](增加json模式对话框.md)
                 * [Node和npm](Node和npm.md)
+            * [javascript](javascript2.md)
     * [键盘快捷键及鼠标](键盘快捷键及鼠标.md)
         * [高级编辑](高级编辑.md)
 * [获得帮助](获得帮助.md)
