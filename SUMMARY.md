@@ -199,6 +199,7 @@
         * [使用Bower 包管理器](使用Bower 管理器.md)
         * [在JavaScript和TypeScript中使用ReactJS](在JavaScript和TypeScript中使用ReactJS.md)
 * [教程](教程Tutorials.md)
+    * [配置通用任务管理器](配置通用任务管理器.md)
 * [参考](参考.md)
     * [要点](要点.md)
         * [项目](项目.md)
