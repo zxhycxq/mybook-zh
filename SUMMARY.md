@@ -1,4 +1,5 @@
 * [译者言](default.md)
+    * [教程](教程Tutorials.md)
 * [初识WebStorm](初识WebStorm.md)
     * [系统要求及安装](系统要求及安装.md)
     * [首次启动导入设置](首次启动导入设置.md)
