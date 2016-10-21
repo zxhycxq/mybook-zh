@@ -197,6 +197,7 @@
         * [TypeScript 支持](TypeScript.md)
         * [使用NPM安装和移除扩展包](使用NPM扩展包.md)
         * [使用Bower 包管理器](使用Bower 管理器.md)
+        * [在JavaScript和TypeScript中使用ReactJS](在JavaScript和TypeScript中使用ReactJS.md)
 * [参考](参考.md)
     * [要点](要点.md)
         * [项目](项目.md)
