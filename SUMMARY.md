@@ -194,6 +194,7 @@
         * [标记语言和样式表](标记语言和样式表.md)
         * [Node.js](Node.js.md)
         * [TextMate](TextMate.md)
+        * [TypeScript 支持](TypeScript.md)
 * [参考](参考.md)
     * [要点](要点.md)
         * [项目](项目.md)
