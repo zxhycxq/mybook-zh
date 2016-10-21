@@ -189,6 +189,7 @@
         * [javascript](javascript.md)
             * [使用angularjs](使用angularjs.md)
             * [emmet](emmet.md)
+        * [CoffeeScript支持](CoffeeScript支持.md)
 * [参考](参考.md)
     * [要点](要点.md)
         * [项目](项目.md)
