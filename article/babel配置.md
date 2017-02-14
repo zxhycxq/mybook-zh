@@ -17,6 +17,7 @@ npm install --save-dev babel-cli
 ![](../image/babel-1.jpg)
 
 4. 如下图所示，设置Files Watchers。
+
 ![](../image/babel-2.jpg)
 
 ```
@@ -37,4 +38,5 @@ npm install --save-dev babel-preset-es2015
    }
 ```
 7.编译后的结果如下图所示：
+
 ![](../image/babel-3.jpg)
