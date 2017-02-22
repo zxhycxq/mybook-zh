@@ -41,4 +41,11 @@ class aaa extends Paa{
         this.color = color;
     }
 }
+var args=[1,2,3,5];
+
+function sum(...args){
+ for (var prop in args) {
+    console.log(arg);
+ }
+}
 
