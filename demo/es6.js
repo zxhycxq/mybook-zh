@@ -20,7 +20,7 @@ class Bar {
         console.log('stuff');
     }
 }
-
+ 
 var b = new Bar();
 b.doStuff() // "stuff"
 

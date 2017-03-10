@@ -36,6 +36,9 @@ reject 失败
 ###git
 repository
 ###others
+###jquery UI
+collapse
+
 
 
 
