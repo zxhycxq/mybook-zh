@@ -31,7 +31,7 @@ function _classCallCheck(instance, Constructor) {
 }
 
 /**
- * Created by JieYi on 2017/2/20.
+ *  on 2017/2/20.
  * 二月
  */
 var Point = function () {
