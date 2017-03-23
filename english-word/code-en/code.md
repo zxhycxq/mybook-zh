@@ -19,6 +19,10 @@ Async
 ###jquery
 ###es6
 Promise 承诺、诺言    
+###react
+Dimensions
+Component
+
 ###node
 assert 断言
 resolve 成功
@@ -29,7 +33,9 @@ Settled 不变的
 framework
 react 
 angular
+anonymous
+Indicator
+external
 
 
-
-
+modified 

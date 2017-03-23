@@ -20,6 +20,7 @@ debug
 help 帮助
 feedback 反馈
 terminal 命令行
+bookmarks 书签
 ###html
 ###css
 ###UI
@@ -42,3 +43,6 @@ collapse
 
 
 
+vector 矢量
+encryption 加密
+assemble 集合 收集
