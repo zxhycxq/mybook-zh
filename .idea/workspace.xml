@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/article/gulp.md" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a09fba2-f669-4ccb-9a1a-e2883c230b33" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/code-inspection/code-inspection-setting.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/codeEdit/code-folding.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/color颜色篇/colorpicker.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/develop/LiveEdit.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/develop/web内容预览.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/editorconfig.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/file watch.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/file-types-recognized.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/regular-expression-syntax-reference.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/resource/反馈bug及问题.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/resource/在线资源.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/symbols.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/tool/选择.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/前言.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/工具窗口/命令行.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/快捷键/基本编辑.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/快捷键/搜索.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/快捷键/运行及调试.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/快捷键/重构.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/快捷键/高级编辑.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/每日技巧.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/TypeScript/TSLint.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/css/scss.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/css/stylelint.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/js/PhoneGap/Cordova.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/js/jshint、jslint、eslint、SCSSLint/bower.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/js/jshint、jslint、eslint、SCSSLint/scss lint.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/js/library.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/js/meteor.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/js/templates.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/js/yeoman.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/语言和框架/node和NPM.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/fileType.md" afterPath="$PROJECT_DIR$/article/fileType.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/gulp.md" afterPath="$PROJECT_DIR$/article/gulp.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/plugins/插件.md" afterPath="$PROJECT_DIR$/article/plugins/插件.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/productify guide.md" afterPath="$PROJECT_DIR$/article/productify guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/tool/tool-guide.md" afterPath="$PROJECT_DIR$/article/tool/tool-guide.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/惊艳的功能.md" afterPath="$PROJECT_DIR$/article/惊艳的功能.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/Version Control/github-terminal.md" afterPath="$PROJECT_DIR$/article/Version Control/git/github-terminal.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/Version Control/github.md" afterPath="$PROJECT_DIR$/article/Version Control/git/github.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/codeEdit/快捷键.md" afterPath="$PROJECT_DIR$/article/快捷键/快捷键.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/codeEdit/自定义快捷键.md" afterPath="$PROJECT_DIR$/article/快捷键/自定义快捷键.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/develop/debug.md" afterPath="$PROJECT_DIR$/article/工具窗口/debug/debug.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/jshint、jslint、eslint、SCSSLint/ESLint.md" afterPath="$PROJECT_DIR$/article/语言和框架/js/jshint、jslint、eslint、SCSSLint/ESLint.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/jshint、jslint、eslint、SCSSLint/PK.md" afterPath="$PROJECT_DIR$/article/语言和框架/js/jshint、jslint、eslint、SCSSLint/PK.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/jshint、jslint、eslint、SCSSLint/scss lint.md" afterPath="$PROJECT_DIR$/article/appearance/scope.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/article/相关资源链接等.md" afterPath="$PROJECT_DIR$/article/resource/相关资源链接等.md" />
+    </list>
+    <list id="597aaa58-e423-4ccb-97d3-a4291575a4fa" name="New changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cssxfire.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/eslintPlugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/reactTemplatesPlugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scssLintPlugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mybook-zh.iml" afterPath="$PROJECT_DIR$/.idea/mybook-zh.iml" />
+    </list>
+    <ignored path="mybook-zh.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mybook-zh" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="PHP file" />
+        <option value="JavaScript File" />
+        <option value="Markdown file" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Android</find>
+      <find>[0-9.]</find>
+      <find>重构</find>
+      <find>markdown</find>
+      <find>不足</find>
+      <find>o-cond-assign</find>
+      <find>no-console</find>
+      <find>no-alert</find>
+      <find>parserOptions</find>
+      <find>(?:text|application)\/javascript</find>
+      <find>Created by JieYi</find>
+      <find>transitionProperty</find>
+      <find>vendors</find>
+      <find>animate</find>
+      <find>Array</find>
+      <find>serializeArray</find>
+      <find>extend</find>
+      <find>active+</find>
+      <find />
+      <find>命令行</find>
+      <find>command</find>
+      <find>k</find>
+      <find>k'j'j</find>
+      <find>快捷键。</find>
+      <find>快捷键</find>
+      <find>file</find>
+      <find>file wat</find>
+      <find>file watch</find>
+      <find>LiveEdit</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Web</replace>
+      <replace>*</replace>
+      <replace>###不足</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\mybook\book-github\mybook-zh\article\Version Control\svn</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="second" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/article/debug.md" />
+        <option value="$PROJECT_DIR$/article/setting/summary.md" />
+        <option value="$PROJECT_DIR$/article/编译sass.md" />
+        <option value="$PROJECT_DIR$/article/emmet.md" />
+        <option value="$PROJECT_DIR$/article/收藏夹.md" />
+        <option value="$PROJECT_DIR$/article/搜索与查找功能.md" />
+        <option value="$PROJECT_DIR$/article/learn/提升.md" />
+        <option value="$PROJECT_DIR$/article/gulp.md" />
+        <option value="$PROJECT_DIR$/article/命令行.md" />
+        <option value="$PROJECT_DIR$/article/Version Control/github-terminal.md" />
+        <option value="$PROJECT_DIR$/article/learn/pro.md" />
+        <option value="$PROJECT_DIR$/article/codeEdit/code.md" />
+        <option value="$PROJECT_DIR$/article/regex.md" />
+        <option value="$PROJECT_DIR$/article/diff.md" />
+        <option value="$PROJECT_DIR$/article/develop/web browser浏览器.md" />
+        <option value="$PROJECT_DIR$/article/codeEdit/delete.md" />
+        <option value="$PROJECT_DIR$/article/setting/导入与导出.md" />
+        <option value="$PROJECT_DIR$/js/yuijs.js" />
+        <option value="$PROJECT_DIR$/demo/es6.js" />
+        <option value="$PROJECT_DIR$/.eslintrc" />
+        <option value="$PROJECT_DIR$/article/相关资源链接等.md" />
+        <option value="$PROJECT_DIR$/article/php.php" />
+        <option value="D:/library/backbone.js" />
+        <option value="D:/library/zepto-zhushi.js" />
+        <option value="$PROJECT_DIR$/article/image.md" />
+        <option value="F:/under-code-red-github/underscore-analysis/underscore-1.8.3.js/underscore-1.8.3-analysis.js" />
+        <option value="$PROJECT_DIR$/article/Version Control/github.md" />
+        <option value="$PROJECT_DIR$/article/favorites.md" />
+        <option value="$PROJECT_DIR$/article/learn/othersoftware.md" />
+        <option value="$PROJECT_DIR$/article/快捷键.md" />
+        <option value="$PROJECT_DIR$/article/git使用.md" />
+        <option value="$PROJECT_DIR$/article/drag拖拽.md" />
+        <option value="$PROJECT_DIR$/english-word/code-en/code.md" />
+        <option value="$PROJECT_DIR$/book.json" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/article/codeEdit/自定义快捷键.md" />
+        <option value="$PROJECT_DIR$/article/codeEdit/快捷键.md" />
+        <option value="$PROJECT_DIR$/english-word/soft-english/base.md" />
+        <option value="$PROJECT_DIR$/article/booktood.md" />
+        <option value="$PROJECT_DIR$/article/exclude.md" />
+        <option value="$PROJECT_DIR$/article/color颜色篇/colorpicker.md" />
+        <option value="$PROJECT_DIR$/article/fileType.md" />
+        <option value="$PROJECT_DIR$/article/file-types-recognized.md" />
+        <option value="$PROJECT_DIR$/article/file watch.md" />
+        <option value="$PROJECT_DIR$/article/惊艳的功能.md" />
+        <option value="$PROJECT_DIR$/article/语言和框架/TypeScript/TSLint.md" />
+        <option value="$PROJECT_DIR$/article/plugins/插件.md" />
+        <option value="$PROJECT_DIR$/article/tool/tool-guide.md" />
+        <option value="$PROJECT_DIR$/article/tool/选择.md" />
+        <option value="$PROJECT_DIR$/article/前言.md" />
+        <option value="$PROJECT_DIR$/article/productify guide.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybook-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="develop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="fileColors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown.Preview" />
+    <property name="settings.editor.splitter.proportion" value="0.22820763" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="C:\Users\Administrator\AppData\Roaming\npm\node_modules\eslint" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.6.0" />
+    <property name="js.eslint.nodeInterpreter" value="project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="stylesheet.stylelint.nodeInterpreter" value="project" />
+    <property name="stylesheet.stylelint.stylelintPackage" value="$USER_HOME$/AppData/Roaming/npm/node_modules/stylelint" />
+    <property name="SearchEverywhereHistoryKey" value="search&#9;ACTION&#9;StructuralSearchPlugin.StructuralSearchAction" />
+    <property name="last.edited.regexp" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\JieYi\AppData\Roaming\npm\node_modules\eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://www.chengxiangqian.com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\mybook\book-github\mybook-zh\article\tool" />
+      <recent name="G:\mybook\book-github\mybook-zh\article\develop" />
+      <recent name="G:\mybook\book-github\mybook-zh\article\语言和框架\css" />
+      <recent name="G:\mybook\book-github\mybook-zh\article\语言和框架\js" />
+      <recent name="G:\mybook\book-github\mybook-zh\article\快捷键" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\mybook\book-github\mybook-zh\article\快捷键" />
+      <recent name="G:\mybook\book-github\mybook-zh\article\语言和框架\js" />
+      <recent name="G:\mybook\book-github\mybook-zh\article\工具窗口\debug" />
+      <recent name="G:\mybook\book-github\mybook-zh\article\Version Control\git" />
+      <recent name="G:\mybook\book-github\mybook-zh\article\resource" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">D:\Program Files\TortoiseSVN\bin</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a09fba2-f669-4ccb-9a1a-e2883c230b33" name="Default" comment="" />
+      <changelist id="597aaa58-e423-4ccb-97d3-a4291575a4fa" name="New changelist" comment="" />
+      <created>1487049388219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487049388219</updated>
+      <workItem from="1487049389566" duration="1474000" />
+      <workItem from="1487050876048" duration="5183000" />
+      <workItem from="1487124202642" duration="3542000" />
+      <workItem from="1487140402340" duration="2733000" />
+      <workItem from="1487210682987" duration="3829000" />
+      <workItem from="1487298814660" duration="681000" />
+      <workItem from="1487310934528" duration="400000" />
+      <workItem from="1487311335553" duration="27000" />
+      <workItem from="1487311378383" duration="3000" />
+      <workItem from="1487322409825" duration="1969000" />
+      <workItem from="1487324996871" duration="223000" />
+      <workItem from="1487553443762" duration="422000" />
+      <workItem from="1487572773067" duration="464000" />
+      <workItem from="1487573930284" duration="3352000" />
+      <workItem from="1487645184643" duration="6464000" />
+      <workItem from="1487670830012" duration="450000" />
+      <workItem from="1487725914717" duration="1451000" />
+      <workItem from="1487733715693" duration="7316000" />
+      <workItem from="1487815449317" duration="868000" />
+      <workItem from="1487919042476" duration="16000" />
+      <workItem from="1488349324685" duration="658000" />
+      <workItem from="1488356992185" duration="2864000" />
+      <workItem from="1488524094287" duration="7017000" />
+      <workItem from="1488771674672" duration="3325000" />
+      <workItem from="1488851639791" duration="1158000" />
+      <workItem from="1488855325591" duration="7935000" />
+      <workItem from="1489110682347" duration="32000" />
+      <workItem from="1489114475619" duration="4511000" />
+      <workItem from="1489139014045" duration="140000" />
+      <workItem from="1489547966532" duration="1634000" />
+      <workItem from="1489559670507" duration="5017000" />
+      <workItem from="1489631476063" duration="4853000" />
+      <workItem from="1490061570267" duration="2477000" />
+      <workItem from="1490067658664" duration="11491000" />
+      <workItem from="1490145848835" duration="20000" />
+      <workItem from="1490146418991" duration="3238000" />
+      <workItem from="1490233820280" duration="2305000" />
+      <workItem from="1490253322736" duration="3489000" />
+      <workItem from="1490335248479" duration="483000" />
+      <workItem from="1490337756836" duration="4805000" />
+      <workItem from="1490529718446" duration="1318000" />
+      <workItem from="1490775826664" duration="83000" />
+      <workItem from="1490782467430" duration="58000" />
+      <workItem from="1490851999743" duration="3320000" />
+      <workItem from="1490855703273" duration="2887000" />
+    </task>
+    <task id="LOCAL-00001" summary="2017年2月14日新修改，增加实践部分">
+      <created>1487051372629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487051372629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2017年2月14日新修改，增加实践部分">
+      <created>1487051519290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487051519290</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交git相关内容">
+      <created>1487052192062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487052192062</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2017年2月14日">
+      <created>1487052373012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487052373012</updated>
+    </task>
+    <task id="LOCAL-00005" summary="，git相关">
+      <created>1487052830494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1487052830494</updated>
+    </task>
+    <task id="LOCAL-00006" summary="markdown文件名称不能有空格">
+      <created>1487053371391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487053371391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="master超前">
+      <created>1487054579239</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487054579239</updated>
+    </task>
+    <task id="LOCAL-00008" summary="新增图片一张">
+      <created>1487055263883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1487055263883</updated>
+    </task>
+    <task id="LOCAL-00009" summary="新增文件">
+      <created>1487055780736</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1487055780736</updated>
+    </task>
+    <task id="LOCAL-00010" summary="新增文件">
+      <created>1487055878878</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1487055878878</updated>
+    </task>
+    <task id="LOCAL-00011" summary="新新增文件git等。2017年2月17日">
+      <created>1487323794969</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1487323794969</updated>
+    </task>
+    <task id="LOCAL-00012" summary="新新增文件git等。2017年2月17日">
+      <created>1487325165430</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1487325165430</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2017年2月21日新增内容规划">
+      <created>1487669388605</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1487669388605</updated>
+    </task>
+    <task id="LOCAL-00014" summary="图片">
+      <created>1487669597433</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1487669597433</updated>
+    </task>
+    <task id="LOCAL-00015" summary="无关文件">
+      <created>1487670181920</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1487670181920</updated>
+    </task>
+    <task id="LOCAL-00016" summary="已经有了吧，图片">
+      <created>1487671150575</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1487671150575</updated>
+    </task>
+    <task id="LOCAL-00017" summary="some new add">
+      <created>1487747772872</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1487747772872</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2017年3月1日">
+      <created>1488363224167</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1488363224167</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2017年3月3日 新增">
+      <created>1488535709644</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1488535709644</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2017年3月6日">
+      <created>1488795796244</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1488795796244</updated>
+    </task>
+    <task id="LOCAL-00021" summary="2017年3月7日">
+      <created>1488881286277</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1488881286277</updated>
+    </task>
+    <task id="LOCAL-00022" summary="xinzeng">
+      <created>1489139119841</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1489139119841</updated>
+    </task>
+    <task id="LOCAL-00023" summary="新增文件夹，扩充内容">
+      <created>1489570897761</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1489570897761</updated>
+    </task>
+    <task id="LOCAL-00024" summary="2017年3月16日">
+      <created>1489659413607</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1489659413607</updated>
+    </task>
+    <task id="LOCAL-00025" summary="2017年3月21日">
+      <created>1490091648828</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1490091648828</updated>
+    </task>
+    <task id="LOCAL-00026" summary="1">
+      <created>1490264060151</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1490264060151</updated>
+    </task>
+    <task id="LOCAL-00027" summary="1">
+      <created>1490529839144</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1490529839144</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers>
+      <Trello shared="false">
+        <commitMessageFormat>{id} {summary}</commitMessageFormat>
+        <option name="currentBoard" />
+        <option name="currentList" />
+        <option name="currentUser" />
+        <password />
+        <option name="includeAllCards" value="false" />
+        <option name="loginAnonymously" value="false" />
+        <option name="preferredCloseTaskState" />
+        <option name="preferredOpenTaskState" />
+        <option name="shouldFormatCommitMessage" value="false" />
+        <option name="url" value="https://api.trello.com" />
+        <option name="useHttpAuthentication" value="false" />
+        <option name="useProxy" value="false" />
+        <username />
+      </Trello>
+    </servers>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="115985000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860817" sideWeight="0.48622048" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49630997" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47402596" sideWeight="0.5069767" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60227275" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.71915585" sideWeight="0.5097674" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18381241" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44805196" sideWeight="0.49302325" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19213313" sideWeight="0.5137795" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383117" sideWeight="0.50735295" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="zxhycxq" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="zxhycxq" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="2017年2月14日新修改，增加实践部分" />
+    <MESSAGE value="提交git相关内容" />
+    <MESSAGE value="2017年2月14日" />
+    <MESSAGE value="，git相关" />
+    <MESSAGE value="markdown文件名称不能有空格" />
+    <MESSAGE value="master超前" />
+    <MESSAGE value="新增图片一张" />
+    <MESSAGE value="新增文件" />
+    <MESSAGE value="新新增文件git等。2017年2月17日" />
+    <MESSAGE value="2017年2月21日新增内容规划" />
+    <MESSAGE value="图片" />
+    <MESSAGE value="无关文件" />
+    <MESSAGE value="已经有了吧，图片" />
+    <MESSAGE value="some new add" />
+    <MESSAGE value="2017年3月1日" />
+    <MESSAGE value="2017年3月3日 新增" />
+    <MESSAGE value="2017年3月6日" />
+    <MESSAGE value="2017年3月7日" />
+    <MESSAGE value="xinzeng" />
+    <MESSAGE value="新增文件夹，扩充内容" />
+    <MESSAGE value="2017年3月16日" />
+    <MESSAGE value="2017年3月21日" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/article/todo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/codeEdit/delete.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/快捷键/快捷键.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="108" lean-forward="false" selection-start-line="0" selection-start-column="108" selection-end-line="0" selection-end-column="108" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/babel配置.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/symbols.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/regular-expression-syntax-reference.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/每日技巧.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/file-types-recognized.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/resource/相关资源链接等.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="200">
+            <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/resource/在线资源.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/resource/反馈bug及问题.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/快捷键/高级编辑.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/快捷键/基本编辑.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/工具窗口/命令行.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/Version Control/CVS.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/快捷键/搜索.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/快捷键/重构.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/file watch.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/js/library.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/js/jshint、jslint、eslint、SCSSLint/bower.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/js/templates.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/js/yeoman.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/js/PhoneGap/Cordova.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/js/name/base.md" />
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/js/meteor.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/快捷键/运行及调试.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/node和NPM.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/css/scss.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/css/stylelint.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/develop/LiveEdit.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/compass_library.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="n#component#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/语言和框架/TypeScript/TSLint.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/code-inspection/code-inspection-setting.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/appearance/scope.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/codeEdit/code-folding.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/plugins/插件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1100">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#parse指令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="6" column="71" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Node和npm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-125">
+            <caret line="17" column="95" lean-forward="true" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/tool/tool-guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="100">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/tool/选择.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/生产力指南.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/productify guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="50">
+            <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/收藏夹.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/搜索与查找功能.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/惊艳的功能.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="575">
+            <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="63" column="66" lean-forward="false" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web内容预览.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="100">
+            <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/前言.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/develop/web内容预览.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/editorconfig.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
