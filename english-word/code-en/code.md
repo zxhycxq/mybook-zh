@@ -9,6 +9,7 @@ interactive 互动
 ###javascript
 
 数组方法
+array 数组
 concat
 splice
 slice

@@ -7,7 +7,7 @@
       "version": "1.0.0"
    }
 ```
-2.打开webstorm上面的命令行Terminal ，安装babel-cli（确保node已经安装）
+2.打开WebStorm上面的命令行Terminal ，安装babel-cli（确保node已经安装）
 
 ```
 npm install --save-dev babel-cli

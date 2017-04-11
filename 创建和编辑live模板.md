@@ -1,6 +1,6 @@
 所有模板被存储在组为了您的方便。通常，模板被布置成根据上下文他们是敏感的。
 
-每组都由一个xml文件的名称<group>.xml；例如，css.xml。这些文件储存在config/templates目录驻留在webstorm的设置用户目录。
+每组都由一个xml文件的名称<group>.xml；例如，css.xml。这些文件储存在config/templates目录驻留在WebStorm的设置用户目录。
 
-我们强烈建议，以避免存储自定义模板中预先定义webstorm组。为此，请使用用户组或新组中。
-webstorm附带一组预定义模板的带电基团。在用户组，由user.xml文件，用于存储模板定制生活。
+我们强烈建议，以避免存储自定义模板中预先定义WebStorm组。为此，请使用用户组或新组中。
+WebStorm附带一组预定义模板的带电基团。在用户组，由user.xml文件，用于存储模板定制生活。
